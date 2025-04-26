@@ -22,6 +22,18 @@ Features start, pause, reset, and lap recording with a stylish UI.
  `style.css` — Styling
  `script.js` — Functionality
 
+## Project Structure
+
+├── index.html    # Main HTML structure
+├── style.css     # Styling and layout
+├── script.js     # Stopwatch functionality
+
+## Technologies Used
+
+  **HTML5**
+  **CSS3**
+  **JavaScript (ES6)**
+
 ## License
 
 MIT License.
