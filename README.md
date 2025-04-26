@@ -1,8 +1,6 @@
 # SCT_WD_T2
 **STOP WATCH**
 
-# Colorful Stopwatch 
-
 A colorful web stopwatch built with **HTML**, **CSS**, and **JavaScript**.  
 Features start, pause, reset, and lap recording with a stylish UI.
 
@@ -29,3 +27,5 @@ Features start, pause, reset, and lap recording with a stylish UI.
 MIT License.
 
 ## Output
+
+![Image](https://github.com/user-attachments/assets/b80713b5-0f8d-4af5-8ebb-dbee1a9bb7a8)
