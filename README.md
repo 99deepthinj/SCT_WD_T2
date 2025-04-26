@@ -30,8 +30,8 @@ Features start, pause, reset, and lap recording with a stylish UI.
 
 ## Technologies Used
 
-  **HTML5**
-  **CSS3**
+  **HTML5**|
+  **CSS3**|
   **JavaScript (ES6)**
 
 ## License
